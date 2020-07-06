@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+.bg {
+    
+    background-image: url("https://d3vgmmrg377kge.cloudfront.net/about/PublishingImages/campus-donors/hbs_aerial_shot_philanthroopy_home_640x360.jpg");
+  
+ 
+    height: 100%; 
+  
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  p{
+    background-color: lightgreen;
+    margin:30px;
+    padding: 10px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+ 
